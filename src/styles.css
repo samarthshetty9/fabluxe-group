@@ -1,0 +1,200 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+/*
+ * FABLUXE GROUP — DESIGN TOKENS
+ * -----------------------------------------------------------------------
+ * Every colour, font, radius, spacing rhythm and motion value used by the
+ * prototype is defined here. Components must never contain raw hex values.
+ * A designer can restyle the entire site from this single file.
+ */
+
+@theme inline {
+  /* Brand palette (mapped to Tailwind utilities: bg-navy, text-gold, ...) */
+  --color-navy: var(--navy);
+  --color-teal: var(--teal);
+  --color-sky: var(--sky);
+  --color-beige: var(--beige);
+  --color-gold: var(--gold);
+
+  /* Semantic surfaces */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-foreground: var(--surface-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-ring: var(--ring);
+  --color-on-dark: var(--on-dark);
+  --color-on-dark-muted: var(--on-dark-muted);
+
+  /* Typography */
+  --font-display: "Fraunces", "Bodoni Moda", Georgia, serif;
+  --font-sans: "Karla", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-label: "Karla", "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  --text-eyebrow: 0.6875rem;
+  --text-eyebrow--line-height: 1.2;
+  --text-eyebrow--letter-spacing: 0.22em;
+
+  --text-display-sm: clamp(1.75rem, 1.3rem + 1.8vw, 2.5rem);
+  --text-display-sm--line-height: 1.15;
+  --text-display-md: clamp(2.25rem, 1.6rem + 2.6vw, 3.5rem);
+  --text-display-md--line-height: 1.1;
+  --text-display-lg: clamp(2.75rem, 1.6rem + 4.6vw, 5rem);
+  --text-display-lg--line-height: 1.05;
+
+  /* Radii */
+  --radius-xs: calc(var(--radius) - 2px);
+  --radius-sm: var(--radius);
+  --radius-md: calc(var(--radius) * 2);
+  --radius-lg: calc(var(--radius) * 3);
+
+  /* Section rhythm */
+  --spacing-section: 5.5rem;
+  --spacing-section-lg: 8rem;
+  --spacing-gutter: 1.5rem;
+  --spacing-shell: 82.5rem;
+
+  /* Motion */
+  --ease-calm: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --duration-calm: 700ms;
+  --duration-hover: 900ms;
+}
+
+:root {
+  /* Brand hexes — the single source of truth */
+  --navy: #2f4156;
+  --teal: #567c8d;
+  --sky: #c8d9e6;
+  --beige: #f5efeb;
+  --gold: #c8a45c;
+  --white: #ffffff;
+
+  --radius: 2px;
+
+  --background: var(--beige);
+  --foreground: var(--navy);
+  --surface: var(--white);
+  --surface-foreground: var(--navy);
+  --muted: var(--sky);
+  --muted-foreground: var(--teal);
+  --primary: var(--navy);
+  --primary-foreground: var(--white);
+  --secondary: var(--teal);
+  --secondary-foreground: var(--white);
+  --accent: var(--gold);
+  --accent-foreground: var(--navy);
+  --border: color-mix(in srgb, var(--navy) 14%, transparent);
+  --border-strong: color-mix(in srgb, var(--navy) 30%, transparent);
+  --ring: var(--gold);
+  --on-dark: var(--white);
+  --on-dark-muted: var(--sky);
+
+  --overlay-navy: color-mix(in srgb, var(--navy) 68%, transparent);
+  --shadow-soft: 0 24px 60px -32px color-mix(in srgb, var(--navy) 45%, transparent);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* Page shell */
+@utility shell {
+  width: 100%;
+  max-width: var(--spacing-shell);
+  margin-inline: auto;
+  padding-inline: var(--spacing-gutter);
+}
+
+/* Thin gold hairline used beside eyebrow labels */
+@utility gold-rule {
+  display: inline-block;
+  width: 2.25rem;
+  height: 1px;
+  background-color: var(--color-gold);
+}
+
+/* Scroll reveal — driven by the Reveal component */
+@utility reveal {
+  opacity: 0;
+  transform: translateY(1.25rem);
+  transition:
+    opacity var(--duration-calm) var(--ease-calm),
+    transform var(--duration-calm) var(--ease-calm);
+}
+
+@utility reveal-in {
+  opacity: 1;
+  transform: none;
+}
+
+/* Slow image scale used on card hover */
+@utility media-zoom {
+  transition: transform var(--duration-hover) var(--ease-calm);
+
+  @media (hover: hover) {
+    .group:hover & {
+      transform: scale(1.04);
+    }
+  }
+}
+
+@utility hide-scrollbar {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

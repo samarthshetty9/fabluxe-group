@@ -1,0 +1,68 @@
+{
+  "directors": [
+    {
+      "id": "preet-sahni",
+      "name": "Preet Sahni",
+      "role": "Co-founder and Managing Director",
+      "image": "person-preet",
+      "short": "Preet leads design across the group and has signed off every Fabluxora drawing set since 2014.",
+      "bio": "Preet trained as an architect at the Academy of Architecture, Mumbai, and spent six years in residential practice before starting Fabluxe with Raghu in 2009. She built the studio's habit of drawing everything at 1:5 before anything is ordered, and she still reviews joinery details herself on every hospitality commission. Outside the studio she teaches an interiors elective and collects Indian textile samples that turn up, quietly, in the group's projects."
+    },
+    {
+      "id": "raghu-menon",
+      "name": "Raghu Menon",
+      "role": "Co-founder and Director, Operations",
+      "image": "person-raghu",
+      "short": "Raghu runs delivery, procurement and the group's service network across eleven cities.",
+      "bio": "Raghu spent his first decade on construction sites in Kochi and Mumbai, and brought that discipline to Fabluxe: dated site diaries, one accountable engineer per project, and a snag list that closes before the invoice does. He set up the Vasai joinery works in 2021 and the after-sales engineering network in 2023. He is the reason clients get a phone call about a delay before they notice one."
+    }
+  ],
+  "leadership": [
+    {
+      "id": "ananya-rao",
+      "name": "Ananya Rao",
+      "role": "Design Principal, Fabluxora Interiors",
+      "image": "person-leader-1",
+      "short": "Leads the residential studio and the group's material library.",
+      "bio": "Ananya joined in 2015 and now leads a studio of twenty-two designers across Mumbai and Bengaluru. She curates the group's material library and has an unusual patience for stone: several projects have waited a month for the right slab. Her residential work in Worli and Koramangala has been published twice in Indian design press."
+    },
+    {
+      "id": "vikram-shetty",
+      "name": "Vikram Shetty",
+      "role": "Managing Director, Fabluxe Home Solutions",
+      "image": "person-leader-2",
+      "short": "Runs the electronics business and its after-sales engineering.",
+      "bio": "Vikram built the Home Solutions business from a single specification desk into a retail and service operation covering eleven cities. He is uncompromising about calibration and installation standards, and insists every engineer who installs a system is the one who returns to service it. Before Fabluxe he spent fourteen years in consumer electronics distribution."
+    },
+    {
+      "id": "meera-iyer",
+      "name": "Meera Iyer",
+      "role": "Director, Projects and Delivery",
+      "image": "person-leader-3",
+      "short": "Owns programme, cost and site quality on every group commission.",
+      "bio": "Meera is a civil engineer by training and holds the group's programmes to the week. She introduced the standard snag protocol now used on all projects, and chairs the Monday site review where every live job is walked through in order. She has delivered more than four hundred handovers, including three hotel refurbishments completed while the hotels stayed open."
+    },
+    {
+      "id": "arjun-desai",
+      "name": "Arjun Desai",
+      "role": "Head of Joinery and Manufacturing",
+      "image": "person-leader-4",
+      "short": "Runs the Vasai works where the group's joinery is made.",
+      "bio": "Arjun learned the trade in his family's furniture workshop in Navsari and now runs a 40,000 sq ft facility with 90 craftspeople. He brought veneer matching, metal finishing and spray work in-house, which is why the group can promise a date and hold it. He is the first person a designer calls when a detail looks impossible."
+    }
+  ],
+  "team": [
+    { "id": "nikita-bose", "name": "Nikita Bose", "role": "Senior Interior Designer", "short": "Residential studio, Mumbai.", "bio": "Nikita has led fourteen apartment fit-outs in south Mumbai and specialises in tight heritage floorplates where every millimetre is negotiated. She joined in 2017 from a hospitality practice in Goa." },
+    { "id": "sameer-khan", "name": "Sameer Khan", "role": "Project Manager", "short": "Hospitality and commercial delivery.", "bio": "Sameer runs the group's hospitality programmes, including two hotel refurbishments completed floor by floor while guests were in the building. He keeps a site diary by hand and has never missed a Monday review." },
+    { "id": "divya-nair", "name": "Divya Nair", "role": "Design Manager, Bengaluru", "short": "Leads the Bengaluru studio.", "bio": "Divya opened the Bengaluru studio in 2018 with three people and now leads eleven. Her focus is the handover pack: every client leaves with drawings, warranties and service contacts in one folder." },
+    { "id": "harsh-patel", "name": "Harsh Patel", "role": "Head of Procurement", "short": "Materials, lead times and supplier standards.", "bio": "Harsh manages a supplier base of over two hundred vendors and audits each one annually. He is responsible for the group's rule that nothing is ordered without a physical sample signed by the designer." },
+    { "id": "ritu-malhotra", "name": "Ritu Malhotra", "role": "Client Relations Lead", "short": "First point of contact for new commissions.", "bio": "Ritu handles enquiries from first call through to the design brief and stays involved until handover. She is the reason clients rarely have to repeat themselves inside the group." },
+    { "id": "abhishek-rane", "name": "Abhishek Rane", "role": "Senior Site Engineer", "short": "Mumbai and Pune sites.", "bio": "Abhishek has closed more than three hundred snag lists. He runs quality walkthroughs at first fix, second fix and pre-handover, and signs each one personally." },
+    { "id": "kavya-menon", "name": "Kavya Menon", "role": "Lighting and AV Specialist", "short": "Home Solutions specification desk.", "bio": "Kavya specifies lighting and audio-visual systems across both companies, and commissions every system she designs. She keeps calibration reports for each install so service engineers start from a known baseline." },
+    { "id": "farhan-sheikh", "name": "Farhan Sheikh", "role": "Service Network Manager", "short": "After-sales across eleven cities.", "bio": "Farhan runs the engineers who return to installed homes and offices. His standard is simple: a call answered the same day and an engineer on site within forty-eight hours." },
+    { "id": "priya-deshpande", "name": "Priya Deshpande", "role": "Sustainability Lead", "short": "Materials, waste and energy reporting.", "bio": "Priya tracks embodied carbon, timber sourcing and site waste for every project, and publishes the group's annual sustainability note. She led the switch to low-VOC finishes across the joinery works." },
+    { "id": "gaurav-joshi", "name": "Gaurav Joshi", "role": "Finance Controller", "short": "Budgets, line-item transparency.", "bio": "Gaurav built the group's line-item budgeting format, which shows clients where every rupee sits from the first estimate to the final account." },
+    { "id": "shreya-kulkarni", "name": "Shreya Kulkarni", "role": "3D Visualisation Lead", "short": "Renders, walkthroughs and material studies.", "bio": "Shreya's team produces the visuals clients approve before a single order is placed. She insists on modelling real products and real finishes, never stand-ins." },
+    { "id": "imran-qureshi", "name": "Imran Qureshi", "role": "CSR and Community Programmes", "short": "School and skills programmes.", "bio": "Imran runs the group's carpentry apprenticeship and the school refurbishment programme, placing trainees from partner institutes into the Vasai works each year." }
+  ]
+}

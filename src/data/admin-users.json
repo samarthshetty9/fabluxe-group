@@ -1,0 +1,74 @@
+[
+  {
+    "id": "u1",
+    "name": "Preet Ahluwalia",
+    "email": "preet@fabluxe.in",
+    "role": "Director",
+    "company": "Fabluxe Group",
+    "lastActive": "Today, 09:12",
+    "status": "Active"
+  },
+  {
+    "id": "u2",
+    "name": "Raghu Iyengar",
+    "email": "raghu@fabluxe.in",
+    "role": "Director",
+    "company": "Fabluxe Group",
+    "lastActive": "Today, 08:04",
+    "status": "Active"
+  },
+  {
+    "id": "u3",
+    "name": "Meera Iyer",
+    "email": "meera@fabluxora.in",
+    "role": "Editor",
+    "company": "Fabluxora Interiors",
+    "lastActive": "Yesterday, 18:40",
+    "status": "Active"
+  },
+  {
+    "id": "u4",
+    "name": "Arjun Pillai",
+    "email": "arjun@fabluxehome.in",
+    "role": "Editor",
+    "company": "Fabluxe Home Solutions",
+    "lastActive": "26 August 2026",
+    "status": "Active"
+  },
+  {
+    "id": "u5",
+    "name": "Nandita Rao",
+    "email": "nandita@fabluxe.in",
+    "role": "Editor",
+    "company": "Fabluxe Group",
+    "lastActive": "25 August 2026",
+    "status": "Active"
+  },
+  {
+    "id": "u6",
+    "name": "Farhan Qureshi",
+    "email": "farhan@fabluxora.in",
+    "role": "Viewer",
+    "company": "Fabluxora Interiors",
+    "lastActive": "22 August 2026",
+    "status": "Active"
+  },
+  {
+    "id": "u7",
+    "name": "Sana Kapadia",
+    "email": "sana@fabluxe.in",
+    "role": "Viewer",
+    "company": "Fabluxe Group",
+    "lastActive": "14 August 2026",
+    "status": "Invited"
+  },
+  {
+    "id": "u8",
+    "name": "Vikram Salunkhe",
+    "email": "vikram@fabluxehome.in",
+    "role": "Viewer",
+    "company": "Fabluxe Home Solutions",
+    "lastActive": "02 July 2026",
+    "status": "Suspended"
+  }
+]

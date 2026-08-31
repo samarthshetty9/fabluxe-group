@@ -1,0 +1,86 @@
+[
+  {
+    "id": "fit-out-firm-2025",
+    "year": "2025",
+    "title": "Interior Fit-out Firm of the Year",
+    "body": "India Design Council",
+    "awardingBody": "India Design Council",
+    "category": "Interiors",
+    "company": "Fabluxora Interiors",
+    "note": "Judged on delivered snag rates and client retention across 40 audited handovers.",
+    "image": "project-2"
+  },
+  {
+    "id": "service-network-2025",
+    "year": "2025",
+    "title": "Service Network Excellence",
+    "body": "Bharat Consumer Electronics Forum",
+    "awardingBody": "Bharat Consumer Electronics Forum",
+    "category": "Retail & Service",
+    "company": "Fabluxe Home Solutions",
+    "note": "Recognised for a 26-hour median response time across eleven cities."
+  },
+  {
+    "id": "hospitality-2024",
+    "year": "2024",
+    "title": "Hospitality Interior — Highly Commended",
+    "body": "Asia Property Awards",
+    "awardingBody": "Asia Property Awards",
+    "category": "Hospitality",
+    "company": "Fabluxora Interiors",
+    "note": "For a 28-key boutique property in Goa completed inside a single season.",
+    "image": "project-5"
+  },
+  {
+    "id": "green-site-2024",
+    "year": "2024",
+    "title": "Green Site Practice — Silver",
+    "body": "Indian Green Building Council",
+    "awardingBody": "Indian Green Building Council",
+    "category": "Sustainability",
+    "company": "Fabluxe Group",
+    "note": "Awarded for measured site waste diversion rather than declared intent."
+  },
+  {
+    "id": "retail-experience-2023",
+    "year": "2023",
+    "title": "Best Retail Service Experience",
+    "body": "Bharat Consumer Electronics Forum",
+    "awardingBody": "Bharat Consumer Electronics Forum",
+    "category": "Retail & Service",
+    "company": "Fabluxe Home Solutions",
+    "note": "Mystery-shopped across six showrooms over eleven weeks.",
+    "image": "showroom-1"
+  },
+  {
+    "id": "residential-2023",
+    "year": "2023",
+    "title": "Residential Project of the Year — Finalist",
+    "body": "Architectural Digest India",
+    "awardingBody": "Architectural Digest India",
+    "category": "Residential",
+    "company": "Fabluxora Interiors",
+    "note": "A sea-facing duplex in Bandra, shortlisted from 214 entries."
+  },
+  {
+    "id": "gptw-2022",
+    "year": "2022",
+    "title": "Great Place to Work — Certified",
+    "body": "GPTW India",
+    "awardingBody": "GPTW India",
+    "category": "Workplace",
+    "company": "Fabluxe Group",
+    "note": "Certified on an 84% trust index, with site teams surveyed separately."
+  },
+  {
+    "id": "craft-2022",
+    "year": "2022",
+    "title": "Craft in Joinery — Merit",
+    "body": "Indian Institute of Interior Designers",
+    "awardingBody": "Indian Institute of Interior Designers",
+    "category": "Craft",
+    "company": "Fabluxora Interiors",
+    "note": "For a hand-finished teak library wall built in the Bhiwandi workshop.",
+    "image": "project-3"
+  }
+]

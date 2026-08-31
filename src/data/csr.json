@@ -1,0 +1,98 @@
+[
+  {
+    "id": "classroom-refit-2026",
+    "title": "Twelve classrooms refitted in Palghar district",
+    "date": "August 2026",
+    "isoDate": "2026-08-12",
+    "image": "csr-1",
+    "location": "Palghar, Maharashtra",
+    "partner": "In partnership with Ekaksha Foundation",
+    "summary": "Our site teams rebuilt furniture, lighting and ventilation across three zilla parishad schools during the monsoon shutdown, reaching 640 students.",
+    "body": [
+      "Three zilla parishad schools in Palghar had classrooms with broken benches, single-bulb lighting and no cross-ventilation. Over eleven weeks our site teams stripped and rebuilt twelve rooms, working through the monsoon shutdown when project sites were idle.",
+      "Every bench and desk was built in the Bhiwandi workshop from timber recovered from project offcuts, finished in the same low-VOC lacquer we specify for client work. Lighting was replaced with LED battens on a separate circuit so classrooms remain usable during load-shedding.",
+      "Teachers asked for storage more than anything else, so each room received a full-height cupboard with a lockable base. The schools now hold 640 students across the twelve rooms."
+    ],
+    "gallery": ["csr-1", "csr-2", "sustain-1"]
+  },
+  {
+    "id": "apprentice-intake-2026",
+    "title": "Fourth apprentice intake joins the joinery programme",
+    "date": "May 2026",
+    "isoDate": "2026-05-04",
+    "image": "csr-2",
+    "location": "Bhiwandi, Maharashtra",
+    "partner": "With the Maharashtra State Skill Development Society",
+    "summary": "Twenty-four apprentices began an eighteen-month paid joinery programme at the Bhiwandi workshop, with a guaranteed interview at the end of it.",
+    "body": [
+      "The joinery apprenticeship pairs each intake with a senior carpenter for eighteen months. Apprentices are paid from day one, rotate through machining, assembly, finishing and site installation, and sit a practical assessment every quarter.",
+      "Of the 68 apprentices who have completed the programme since 2021, 51 are still working in the trade and 34 are on the Fabluxora Interiors payroll.",
+      "This intake is the first to include a dedicated finishing module, added after supervisors flagged that spray finishing was the hardest skill to hire for."
+    ],
+    "gallery": ["csr-2", "sustain-1", "project-3"]
+  },
+  {
+    "id": "native-planting-2026",
+    "title": "1,800 native saplings planted along the Ulhas corridor",
+    "date": "February 2026",
+    "isoDate": "2026-02-18",
+    "image": "csr-3",
+    "location": "Ulhas river corridor, Maharashtra",
+    "partner": "With Vanarai Trust",
+    "summary": "A two-weekend planting drive with 120 staff volunteers, using only species native to the catchment and a three-year maintenance contract.",
+    "body": [
+      "Planting drives fail when nobody waters the saplings in year two. This one was funded with a three-year maintenance contract attached, paid to a local self-help group that also handles the guards and mulching.",
+      "Species were chosen with Vanarai Trust from the catchment's native list — karanj, jamun, bahava and arjun — with no ornamental imports.",
+      "Survival at the twelve-month count was 81%, and gaps have been replanted."
+    ],
+    "gallery": ["csr-3", "sustain-3", "sustain-2"]
+  },
+  {
+    "id": "artisan-upholstery-2025",
+    "title": "Upholstery unit set up with a women's collective in Nashik",
+    "date": "November 2025",
+    "isoDate": "2025-11-09",
+    "image": "csr-4",
+    "location": "Nashik, Maharashtra",
+    "partner": "With the Saheli Producer Company",
+    "summary": "Fourteen artisans now run a working upholstery unit that supplies soft furnishings to Fabluxora projects at commercial rates.",
+    "body": [
+      "This is procurement, not charity. Fabluxe funded machines, tables and six weeks of training; the collective owns the unit and invoices us at market rates like any other supplier.",
+      "The unit produces cushions, headboards and loose covers, and has taken on work from two other Nashik studios since opening.",
+      "Fourteen artisans are on the books, nine of them earning a regular monthly income for the first time."
+    ],
+    "gallery": ["csr-4", "project-6", "project-1"]
+  },
+  {
+    "id": "appliance-donation-2025",
+    "title": "Refurbished appliances placed in 42 community kitchens",
+    "date": "July 2025",
+    "isoDate": "2025-07-22",
+    "image": "showroom-1",
+    "location": "Mumbai and Pune",
+    "partner": "With Annapurna Seva Network",
+    "summary": "Working appliances collected under our take-back scheme were tested, refurbished by service engineers and placed in community kitchens.",
+    "body": [
+      "Our take-back scheme collects the appliance being replaced at every installation. Most go to a registered e-waste recycler, but a proportion still work perfectly.",
+      "Service engineers tested and refurbished 118 units on their own time, backed by a company-funded parts budget, and the working stock went to 42 community kitchens across Mumbai and Pune.",
+      "Each kitchen also received a twelve-month service commitment so a small fault does not put the unit back out of use."
+    ],
+    "gallery": ["showroom-1", "csr-1", "project-8"]
+  },
+  {
+    "id": "site-safety-2025",
+    "title": "Site safety and heat-stress training for 380 workers",
+    "date": "March 2025",
+    "isoDate": "2025-03-14",
+    "image": "sustain-3",
+    "location": "All active sites",
+    "partner": "With the Nirman Workers Welfare Board",
+    "summary": "Every worker on a Fabluxe site — employed or contracted — completed a paid day of safety and heat-stress training ahead of the summer.",
+    "body": [
+      "Contract workers are usually left out of safety training because nobody wants to pay for their day. We paid for it: 380 workers, employed and contracted alike, completed a full day before the summer peak.",
+      "The heat-stress module set mandatory shade, water and rest cycles for sites above 38°C, and gave any worker the right to stop work without loss of pay.",
+      "Reportable incidents across our sites fell from nine in 2024 to two in 2025."
+    ],
+    "gallery": ["sustain-3", "project-9", "csr-2"]
+  }
+]

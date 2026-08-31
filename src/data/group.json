@@ -1,0 +1,36 @@
+{
+  "name": "Fabluxe Group",
+  "founded": 2009,
+  "tagline": "Two companies. One standard of finish.",
+  "description": "Fabluxe is an Indian group of two operating companies — one fits out homes, one furnishes them with technology that works. We have been building for Indian families, developers and hospitality clients since 2009.",
+  "contact": {
+    "addressLines": ["Fabluxe House, 14 Turner Road", "Bandra West, Mumbai 400050", "Maharashtra, India"],
+    "phone": "+91 22 4890 1200",
+    "email": "hello@fabluxe.in",
+    "hours": "Monday to Saturday, 10:00 – 19:00 IST"
+  },
+  "stats": [
+    { "figure": "16", "label": "Years in operation", "note": "Since 2009" },
+    { "figure": "2,400+", "label": "Projects delivered", "note": "Homes, offices, hospitality" },
+    { "figure": "11", "label": "Cities served", "note": "Across west and south India" },
+    { "figure": "380", "label": "People on the team", "note": "Design, build, service" }
+  ],
+  "nav": [
+    { "label": "The Group", "href": "/the-group" },
+    { "label": "People", "href": "/people" },
+    { "label": "Our Companies", "href": "/companies" },
+
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Awards", "href": "/awards" },
+    { "label": "Sustainability", "href": "/sustainability" },
+    { "label": "CSR", "href": "/csr" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "Reviews", "href": "/reviews" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "social": [
+    { "label": "LinkedIn", "href": "#" },
+    { "label": "Instagram", "href": "#" },
+    { "label": "YouTube", "href": "#" }
+  ]
+}

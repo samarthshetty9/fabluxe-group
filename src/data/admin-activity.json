@@ -1,0 +1,10 @@
+[
+  { "id": "a1", "actor": "Meera Iyer", "action": "published the blog post", "target": "Layered neutrals: how to keep a beige room from going flat", "when": "Today, 09:24" },
+  { "id": "a2", "actor": "Preet Ahluwalia", "action": "approved the client review from", "target": "Rhea Sabharwal", "when": "Today, 08:51" },
+  { "id": "a3", "actor": "Nandita Rao", "action": "updated the CSR entry", "target": "Twelve classrooms refitted in Palghar district", "when": "Yesterday, 17:38" },
+  { "id": "a4", "actor": "Arjun Pillai", "action": "marked the enquiry as in progress", "target": "FBL-2026-8299 — Northlight Cafés", "when": "Yesterday, 15:02" },
+  { "id": "a5", "actor": "Meera Iyer", "action": "added a project", "target": "Sea-facing residence, Worli", "when": "26 August 2026" },
+  { "id": "a6", "actor": "Preet Ahluwalia", "action": "created the user", "target": "Sana Kapadia — Viewer", "when": "25 August 2026" },
+  { "id": "a7", "actor": "Nandita Rao", "action": "edited the sustainability initiative", "target": "Certified timber, traced to the mill", "when": "24 August 2026" },
+  { "id": "a8", "actor": "Arjun Pillai", "action": "hid the client review from", "target": "Anonymous — Residential, Thane", "when": "22 August 2026" }
+]

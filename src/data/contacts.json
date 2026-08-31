@@ -1,0 +1,33 @@
+{
+  "group": {
+    "label": "Fabluxe Group",
+    "addressLines": ["Fabluxe House, 14 Turner Road", "Bandra West, Mumbai 400050", "Maharashtra, India"],
+    "phone": "+91 22 4890 1200",
+    "email": "hello@fabluxe.in",
+    "hours": "Monday to Saturday, 10:00 – 19:00 IST"
+  },
+  "companies": [
+    {
+      "id": "home-solutions",
+      "name": "Fabluxe Home Solutions",
+      "sector": "Consumer electronics",
+      "phone": "+91 22 4890 1210",
+      "email": "homesolutions@fabluxe.in",
+      "lines": ["Retail sales", "Installation", "Service contracts", "Developer supply"]
+    },
+    {
+      "id": "interiors",
+      "name": "Fabluxora Interiors",
+      "sector": "Interior design & fit-out",
+      "phone": "+91 22 4890 1220",
+      "email": "studio@fabluxora.in",
+      "lines": ["New project enquiries", "Joinery & procurement", "Site handover"]
+    }
+  ],
+  "enquiryTypes": [
+    { "value": "Interiors", "label": "Interiors" },
+    { "value": "Electronics", "label": "Electronics" },
+    { "value": "B2B supply", "label": "B2B supply" },
+    { "value": "Other", "label": "Other" }
+  ]
+}

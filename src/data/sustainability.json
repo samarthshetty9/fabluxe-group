@@ -1,0 +1,65 @@
+{
+  "statement": "We would rather specify less and specify better. Since 2021 every Fabluxora Interiors project has run on FSC-certified ply, low-VOC finishes and a site waste plan that is measured, not promised.",
+  "points": [
+    "94% of site timber waste diverted from landfill in 2025",
+    "Low-VOC paints and adhesives as standard specification",
+    "Warehouse and two showrooms running on rooftop solar"
+  ],
+  "initiatives": [
+    {
+      "id": "certified-timber",
+      "title": "Certified timber, traced to the mill",
+      "image": "sustain-1",
+      "description": "Every sheet of ply and every solid board entering the Bhiwandi workshop carries a chain-of-custody code. Anything that cannot be traced is returned to the supplier.",
+      "figure": "100%",
+      "figureLabel": "FSC-certified ply since 2021"
+    },
+    {
+      "id": "rooftop-solar",
+      "title": "Rooftop solar across owned sites",
+      "image": "sustain-2",
+      "description": "A 340 kWp array covers the warehouse and two flagship showrooms. Surplus generation is exported back to the state grid on weekends.",
+      "figure": "61%",
+      "figureLabel": "Of owned-site electricity self-generated"
+    },
+    {
+      "id": "site-waste",
+      "title": "Segregated site waste plan",
+      "image": "sustain-3",
+      "description": "Offcuts are sorted at source into timber, board, metal and packaging. Timber goes back to the workshop for jigs, crates and CSR furniture builds.",
+      "figure": "94%",
+      "figureLabel": "Timber waste diverted from landfill"
+    },
+    {
+      "id": "low-voc",
+      "title": "Low-VOC finishes as standard",
+      "image": "sustain-4",
+      "description": "Water-based lacquers and low-emission adhesives are the default line item, not an upgrade. Clients move in without a two-week airing period.",
+      "figure": "< 50 g/L",
+      "figureLabel": "VOC ceiling on specified paints"
+    },
+    {
+      "id": "logistics",
+      "title": "Consolidated delivery runs",
+      "image": "project-7",
+      "description": "Installation loads for projects within a corridor are batched into single runs, cutting empty-van kilometres between Mumbai, Pune and Nashik.",
+      "figure": "-38%",
+      "figureLabel": "Delivery kilometres per project vs 2022"
+    },
+    {
+      "id": "takeback",
+      "title": "Appliance take-back at handover",
+      "image": "showroom-1",
+      "description": "Fabluxe Home Solutions collects the appliance being replaced at every installation and routes it to a registered e-waste recycler.",
+      "figure": "11,400",
+      "figureLabel": "Appliances collected for recycling"
+    }
+  ],
+  "commitments": [
+    "Publish measured site waste figures every year, including the projects that missed target.",
+    "Keep FSC-certified ply and low-VOC finishes as the default specification, never a paid upgrade.",
+    "Reach net-zero grid electricity across owned warehouses and showrooms by 2030.",
+    "Route 100% of collected appliances to registered e-waste handlers, with certificates on file.",
+    "Audit our five largest suppliers on labour and material provenance every eighteen months."
+  ]
+}

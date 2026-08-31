@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t1",
+    "quote": "They handed over on the date they gave us in the first meeting. In eleven years of building hotels, that had not happened to me before.",
+    "name": "Rhea Sabharwal",
+    "role": "Director, Marlowe Hospitality",
+    "location": "Pune"
+  },
+  {
+    "id": "t2",
+    "quote": "Our fit-out and our AV came from one group, so nobody could blame anybody. Snag list closed in nine days.",
+    "name": "Vikram Nair",
+    "role": "Head of Workplace, Ardent Systems",
+    "location": "Bengaluru"
+  },
+  {
+    "id": "t3",
+    "quote": "The team treated a 900 sq ft flat with the same seriousness as the penthouse next door. That is the reason we recommend them.",
+    "name": "Anita Deshpande",
+    "role": "Homeowner",
+    "location": "Mumbai"
+  }
+]

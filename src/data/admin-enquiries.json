@@ -1,0 +1,98 @@
+[
+  {
+    "id": "FBL-2026-8304",
+    "name": "Rohan Deshmukh",
+    "email": "rohan.deshmukh@vistaraproperties.in",
+    "phone": "+91 98200 41120",
+    "company": "Vistara Properties",
+    "enquiryType": "Interiors",
+    "message": "We are fitting out 14 sample apartments in Andheri East and need a single vendor for joinery, lighting and soft furnishing. Looking for a walkthrough of two completed towers before we shortlist.",
+    "date": "26 August 2026",
+    "isoDate": "2026-08-26",
+    "status": "New"
+  },
+  {
+    "id": "FBL-2026-8299",
+    "name": "Kavita Menon",
+    "email": "kavita@northlightcafes.com",
+    "phone": "+91 99670 20884",
+    "company": "Northlight Cafés",
+    "enquiryType": "B2B supply",
+    "message": "Rolling out six café kitchens across Pune and Nashik this financial year. Need pricing on undercounter refrigeration and extraction on an annual rate contract.",
+    "date": "24 August 2026",
+    "isoDate": "2026-08-24",
+    "status": "In progress"
+  },
+  {
+    "id": "FBL-2026-8291",
+    "name": "Aditya Rane",
+    "email": "aditya.rane@gmail.com",
+    "phone": "+91 90040 77219",
+    "company": "",
+    "enquiryType": "Electronics",
+    "message": "Building a 3BHK in Thane. Interested in the built-in appliance package and whether installation is handled in-house.",
+    "date": "22 August 2026",
+    "isoDate": "2026-08-22",
+    "status": "In progress"
+  },
+  {
+    "id": "FBL-2026-8285",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.k@meridianhotels.co.in",
+    "phone": "+91 98333 55401",
+    "company": "Meridian Hotels",
+    "enquiryType": "Interiors",
+    "message": "Refurbishment of 42 keys plus lobby at our Lonavala property. Work has to run in two phases without closing the hotel. Can you share a phased programme example?",
+    "date": "19 August 2026",
+    "isoDate": "2026-08-19",
+    "status": "New"
+  },
+  {
+    "id": "FBL-2026-8272",
+    "name": "Imran Shaikh",
+    "email": "imran@shaikhconstruction.in",
+    "phone": "+91 91670 12233",
+    "company": "Shaikh Construction",
+    "enquiryType": "B2B supply",
+    "message": "Requirement for modular wardrobes across 60 units in Kalyan. Please send commercial terms and lead times.",
+    "date": "14 August 2026",
+    "isoDate": "2026-08-14",
+    "status": "Closed"
+  },
+  {
+    "id": "FBL-2026-8264",
+    "name": "Divya Nair",
+    "email": "divya.nair@axiompharma.com",
+    "phone": "+91 97690 34418",
+    "company": "Axiom Pharma",
+    "enquiryType": "Interiors",
+    "message": "18,000 sq ft office in Powai. Base build is complete, we need design plus delivery with a January occupancy date.",
+    "date": "11 August 2026",
+    "isoDate": "2026-08-11",
+    "status": "In progress"
+  },
+  {
+    "id": "FBL-2026-8250",
+    "name": "Harpreet Sethi",
+    "email": "harpreet.sethi@outlook.com",
+    "phone": "+91 98111 90056",
+    "company": "",
+    "enquiryType": "Other",
+    "message": "Enquiry about media coverage of the Palghar classroom programme and whether volunteers are accepted.",
+    "date": "06 August 2026",
+    "isoDate": "2026-08-06",
+    "status": "Closed"
+  },
+  {
+    "id": "FBL-2026-8241",
+    "name": "Nikhil Bhatia",
+    "email": "nikhil@bhatiaretail.in",
+    "phone": "+91 96190 77712",
+    "company": "Bhatia Retail",
+    "enquiryType": "Electronics",
+    "message": "Looking to stock the Fabluxe Home Solutions range across four stores in Nagpur. Who handles distributor onboarding?",
+    "date": "02 August 2026",
+    "isoDate": "2026-08-02",
+    "status": "New"
+  }
+]

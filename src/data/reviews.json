@@ -1,0 +1,122 @@
+[
+  {
+    "id": "r1",
+    "rating": 5,
+    "quote": "They handed over on the date they gave us in the very first meeting. In eleven years of building hotels, that had not happened to me before.",
+    "name": "Rhea Sabharwal",
+    "projectType": "Hospitality",
+    "location": "Pune",
+    "date": "July 2026",
+    "isoDate": "2026-07-16"
+  },
+  {
+    "id": "r2",
+    "rating": 5,
+    "quote": "Fit-out and AV came from one group, so nobody could pass the blame around. Our snag list closed in nine days.",
+    "name": "Vikram Nair",
+    "projectType": "Commercial",
+    "location": "Bengaluru",
+    "date": "June 2026",
+    "isoDate": "2026-06-28"
+  },
+  {
+    "id": "r3",
+    "rating": 5,
+    "quote": "The team treated a 900 sq ft flat with the same seriousness as the penthouse next door. That is the reason we recommend them.",
+    "name": "Anita Deshpande",
+    "projectType": "Residential",
+    "location": "Mumbai",
+    "date": "June 2026",
+    "isoDate": "2026-06-09"
+  },
+  {
+    "id": "r4",
+    "rating": 4,
+    "quote": "Drawings were excellent and the joinery is beautiful. The stone supplier ran three weeks late, though the team kept us informed the whole way.",
+    "name": "Karan Bhatia",
+    "projectType": "Residential",
+    "location": "Thane",
+    "date": "May 2026",
+    "isoDate": "2026-05-21"
+  },
+  {
+    "id": "r5",
+    "rating": 5,
+    "quote": "Two floors of a working office, refitted over weekends without losing a single business day. Planning was the whole job.",
+    "name": "Sunita Menon",
+    "projectType": "Commercial",
+    "location": "Mumbai",
+    "date": "May 2026",
+    "isoDate": "2026-05-04"
+  },
+  {
+    "id": "r6",
+    "rating": 5,
+    "quote": "Six months after handover I asked for a small change to a wardrobe. Someone came the same week and did not invoice us.",
+    "name": "Aditya Kulkarni",
+    "projectType": "Residential",
+    "location": "Pune",
+    "date": "April 2026",
+    "isoDate": "2026-04-18"
+  },
+  {
+    "id": "r7",
+    "rating": 4,
+    "quote": "Good quality throughout and a very professional site team. I would have liked one more round of material samples early on.",
+    "name": "Neha Shroff",
+    "projectType": "Residential",
+    "location": "Surat",
+    "date": "April 2026",
+    "isoDate": "2026-04-02"
+  },
+  {
+    "id": "r8",
+    "rating": 5,
+    "quote": "They rebuilt our clinic reception around live patient traffic. Clean, quiet and dust-sealed every single evening.",
+    "name": "Dr. Imran Shaikh",
+    "projectType": "Commercial",
+    "location": "Nashik",
+    "date": "March 2026",
+    "isoDate": "2026-03-24"
+  },
+  {
+    "id": "r9",
+    "rating": 5,
+    "quote": "Our villa took fourteen months and I never once had to chase for a status update. The weekly report was genuinely honest about delays.",
+    "name": "Priya Raghavan",
+    "projectType": "Residential",
+    "location": "Bengaluru",
+    "date": "March 2026",
+    "isoDate": "2026-03-07"
+  },
+  {
+    "id": "r10",
+    "rating": 5,
+    "quote": "The restaurant opened on schedule and the acoustics are the thing guests mention most. That was their suggestion, not ours.",
+    "name": "Joel D'Souza",
+    "projectType": "Hospitality",
+    "location": "Goa",
+    "date": "February 2026",
+    "isoDate": "2026-02-19"
+  },
+  {
+    "id": "r11",
+    "rating": 4,
+    "quote": "Strong detailing and a tidy site. Costs moved slightly during the project, but every change was explained before it was spent.",
+    "name": "Ramesh Patel",
+    "projectType": "Residential",
+    "location": "Ahmedabad",
+    "date": "February 2026",
+    "isoDate": "2026-02-05"
+  },
+  {
+    "id": "r12",
+    "rating": 5,
+    "quote": "We have now done three offices with them. The reason is simple: the same project manager turns up each time and remembers everything.",
+    "name": "Lakshmi Venkatesh",
+    "projectType": "Commercial",
+    "location": "Hyderabad",
+    "date": "January 2026",
+    "isoDate": "2026-01-22"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "home-solutions",
+    "name": "Fabluxe Home Solutions",
+    "sector": "Consumer electronics",
+    "monogram": "FHS",
+    "legalName": "Fabluxe Home Solutions Private Limited",
+    "incorporated": "Incorporated 2016 · CIN placeholder U31900MH2016PTC000000",
+    "oneLiner": "Televisions, audio and home appliances, specified and installed by people who stay on the phone after the invoice.",
+    "footerLine": "Consumer electronics, retail and after-sales service.",
+    "description": "Home Solutions began because clients kept asking who would specify, install and then look after the technology in the homes we had just finished. It is now a retail and service business in its own right, with a specification desk, two showrooms and engineers placed in every city the group builds in. It sells to homeowners directly and supplies developers and hotel groups on contract.",
+    "offer": [
+      "Televisions, projection and home cinema",
+      "Multi-room audio and acoustic calibration",
+      "Kitchen and laundry appliances",
+      "Climate control and air purification",
+      "Lighting control and home automation",
+      "Annual maintenance and on-site service contracts"
+    ],
+    "serviceAreas": ["Mumbai", "Thane", "Pune", "Nashik", "Bengaluru", "Hyderabad"],
+    "gallery": ["showroom-1", "home-solutions", "project-4"],
+    "url": "#"
+  },
+  {
+    "id": "interiors",
+    "name": "Fabluxora Interiors",
+    "sector": "Interior design and fit-out",
+    "monogram": "FI",
+    "legalName": "Fabluxora Interiors Private Limited",
+    "incorporated": "Incorporated 2014 · CIN placeholder U74999MH2014PTC000000",
+    "oneLiner": "Full-service interior design and turnkey fit-out for residences, offices and hospitality across India.",
+    "footerLine": "Interior design and turnkey fit-out.",
+    "description": "Fabluxora is the design and build company. It takes a project from first measurement through drawings, procurement, joinery, site work and handover, with one design lead and one site engineer named on every job. Its own joinery works at Vasai makes the majority of what goes into a Fabluxora project, which is why the studio can quote a date and hold it.",
+    "offer": [
+      "Interior design and detailed drawings",
+      "Turnkey residential fit-out",
+      "Workplace and commercial fit-out",
+      "Hospitality interiors and phased refurbishment",
+      "Bespoke joinery from the Vasai works",
+      "Furniture, styling and handover packs"
+    ],
+    "serviceAreas": ["Mumbai", "Alibaug", "Pune", "Goa", "Bengaluru", "Hyderabad", "Kochi"],
+    "gallery": ["interiors", "project-1", "project-3"],
+    "url": "#"
+  }
+]
